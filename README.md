@@ -1,8 +1,8 @@
 ## TIL
-나의 첫번째 저장소
+I'm just scribbling,,
 
 ## 211115
-이렇게 하는 것인가.
+is it right?
 
 ## 211117
-아직 어렵다.
+It's still hard.
